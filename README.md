@@ -6,9 +6,9 @@
 
 ## Скриншоты интерфейса приложения
 
-![Скриншот 1](https://github.com/srkinj/miem_navigation/raw/master/image/1.png)
+![Скриншот 1](https://github.com/srkinj/miem_navigation/blob/138f1a8ba1f8723bd10498ba16bd54eb189e5850/images/1.png)
 
-![Скриншот 2](https://github.com/srkinj/miem_navigation/raw/master/image/2.png)
+![Скриншот 2](https://github.com/srkinj/miem_navigation/blob/138f1a8ba1f8723bd10498ba16bd54eb189e5850/images/2.png)
 
 ## Project setup
 ```
